@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-764%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2010%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -42,5 +42,5 @@ Mac                      24 hrs 2 mins       ███████████�
 ```
 
 
- Last Updated on 17/12/2023 00:55:11 UTC
+ Last Updated on 18/12/2023 00:52:33 UTC
 <!--END_SECTION:waka-->
