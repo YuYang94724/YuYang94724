@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C561%20hrs%2028%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -28,15 +28,19 @@ Sunday                   33 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.04 % 
+XML                      2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.53 % 
+Properties               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Java Properties          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+CLASS                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            4 hrs 49 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/01/2025 01:05:07 UTC
+ Last Updated on 08/01/2025 01:05:13 UTC
 <!--END_SECTION:waka-->
