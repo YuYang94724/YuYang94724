@@ -30,42 +30,44 @@ Sunday                   392 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 21 mins        ██████████░░░░░░░░░░░░░░░   39.93 % 
-TypeScript               1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   31.27 % 
-Diff                     40 mins             █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               9 hrs               ██████████████░░░░░░░░░░░   56.88 % 
+Markdown                 4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Diff                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 24 mins       █████████████████████████   100.00 % 
+Claude Code              15 hrs 45 mins      █████████████████████████   99.52 % 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Mac                      3 hrs 24 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (100.0%)
+⏱ AI Coding Time: 15 hrs 46 mins (99.67%)
 
-✍️ 2,343 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 27,054 lines written by AI, 13 lines written by hand (99.95% AI-written)
 
-🔤 5,069,559 Input Tokens, 100,577 Output Tokens
+🔤 20,569,652 Input Tokens, 454,482 Output Tokens
 
-💵 $30.24 Estimated AI Cost This Week
+💵 $147.48 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 7 AI Prompts
+🧠 5 AI Sessions, 38 AI Prompts
 
-Opus                     2,098 lines         ██████████████████████░░░   89.51 % 
-Sonnet                   246 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Sonnet                   16,319 lines        ███████████████░░░░░░░░░░   58.61 % 
+Opus                     11,522 lines        ██████████░░░░░░░░░░░░░░░   41.39 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,353 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 3,669 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.05% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/10/2026 03:02:57 UTC
+ Last Updated on 25/10/2026 02:57:09 UTC
 <!--END_SECTION:waka-->
